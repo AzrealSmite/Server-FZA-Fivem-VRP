@@ -1,0 +1,58 @@
+cfg = {}
+-- Configure blip colors at cfg/display.lua
+cfg.teams = { -- Only one team for each group, you can set multiple teams, groups on same team will see each other's blips
+  ["COPS"] = { -- Team name must be unique
+    -- groups
+	"[POLICIA CIVIL]",
+	"[CORONEL] - Policia Militar",
+	"[T-CORONEL] - Policia Militar",
+	"[MAJOR] - Policia Militar",
+	"[CAPITÃO] - Policia Militar",
+	"[1ºTENENTE] - Policia Militar",
+	"[2ºTENENTE] - Policia Militar",
+	"[ASPIRANTE] - Policia Militar",
+	"[CADETE] - Policia Militar",
+	"[SUB-TENENTE] - Policia Militar",
+	"[1ºSARGENTO] - Policia Militar",
+	"[2ºSARGENTO] - Policia Militar",
+	"[3ºSARGENTO] - Policia Militar",
+	"[CABO] - Policia Militar",
+	"[SOLDADO] - Policia Militar",
+	"[RECRUTA] - Policia Militar",
+	"[CORONEL] - Rota",
+	"[T-CORONEL] - Rota",
+	"[MAJOR] - Rota",
+	"[CAPITÃO] - Rota",
+	"[1ºTENENTE] - Rota",
+	"[2ºTENENTE] - Rota",
+	"[ASPIRANTE] - Rota",
+	"[CADETE] - Rota",
+	"[SUB-TENENTE] - Rota",
+	"[1ºSARGENTO] - Rota",
+	"[2ºSARGENTO] - Rota",
+	"[3ºSARGENTO] - Rota",
+	"[CABO] - Rota",
+	"[SOLDADO] - Rota",
+	"[RECRUTA] - Rota",
+	"[CORONEL] - FORÇA TATICA",
+	"[T-CORONEL] - FORÇA TATICA",
+	"[MAJOR] - FORÇA TATICA",
+	"[CAPITÃO] - FORÇA TATICA",
+	"[1ºTENENTE] - FORÇA TATICA",
+	"[2ºTENENTE] - FORÇA TATICA",
+	"[ASPIRANTE] - FORÇA TATICA",
+	"[CADETE] - FORÇA TATICA",
+	"[SUB-TENENTE] - FORÇA TATICA",
+	"[1ºSARGENTO] - FORÇA TATICA",
+	"[2ºSARGENTO] - FORÇA TATICA",
+	"[3ºSARGENTO] - FORÇA TATICA",
+	"[CABO] - FORÇA TATICA",
+	"[SOLDADO] - FORÇA TATICA",
+	"[RECRUTA] - FORÇA TATICA",
+	"[COMANDANTE] - Geral",
+	"EMERGENCIA"
+  },
+  -- create more teams here
+}
+
+return cfg

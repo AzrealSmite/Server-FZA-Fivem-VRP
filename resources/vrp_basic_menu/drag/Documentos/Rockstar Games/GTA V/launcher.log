@@ -1,0 +1,26 @@
+[2017-10-27 03:10:54.278] [DISPLAY] Using DPI 96
+[2017-10-27 03:10:54.335] [DISPLAY] File version 10000:44f0002 (for D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2017-10-27 03:10:54.375] [DISPLAY] Unable to get file version info size for C:\Users\destr\AppData\Local\FiveM\FiveM.app\cache\game\ros\socialclub.dll
+[2017-10-27 03:10:54.375] [ ERROR ] Last error: 2 : O sistema não pode encontrar o arquivo especificado.
+
+[2017-10-27 03:10:54.418] [DISPLAY] File version 10000:44f0002 (for C:\Users\destr\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSLauncher)
+[2017-10-27 03:10:54.429] [DISPLAY] Version: |1.0.1103.2|0.0.0.0|1.0.1103.2|FFP
+[2017-10-27 03:10:54.885] [DISPLAY] OS version: Major: 10, Minor: 0, Build: 15063, Platform: 2
+[2017-10-27 03:10:54.908] [DISPLAY] Unable to get file version info size for D:\Steam\steamapps\common\Grand Theft Auto V\PlayGTAV.exe
+[2017-10-27 03:10:54.908] [ ERROR ] Last error: 2 : O sistema não pode encontrar o arquivo especificado.
+
+[2017-10-27 03:10:55.033] [ ERROR ] Unable to load options file!
+[2017-10-27 03:10:55.108] [DISPLAY] File version 10000:44f0002 (for D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2017-10-27 03:10:55.155] [DISPLAY] Opened options file.
+[2017-10-27 03:10:55.196] [DISPLAY] Unable to get file version info size for C:\Users\destr\AppData\Local\FiveM\FiveM.app\cache\game\ros\socialclub.dll
+[2017-10-27 03:10:55.196] [ ERROR ] Last error: 2 : O sistema não pode encontrar o arquivo especificado.
+
+[2017-10-27 03:10:55.228] [DISPLAY] Social Club initializing...
+[2017-10-27 03:10:55.628] [DISPLAY] Attempting to create device...
+[2017-10-27 03:10:55.631] [DISPLAY] Attempting to initialise DX9 COM object...
+[2017-10-27 03:10:55.719] [DISPLAY] Window size: 690 x 496
+[2017-10-27 03:10:55.746] [DISPLAY] Successfully created DX Device!
+[2017-10-27 03:11:06.466] [DISPLAY] File version 10000:44f0002 (for D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2017-10-27 03:11:06.509] [DISPLAY] In-place download is up-to-date.
+[2017-10-27 03:11:06.572] [DISPLAY] Launching game...
+[2017-10-27 03:11:06.575] [DISPLAY] (path: D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe" ros:launcher --parent_pid=12888 D:\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
